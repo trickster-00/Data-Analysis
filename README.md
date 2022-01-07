@@ -1,2 +1,7 @@
 # Data-Analysis
-Data analytic reports prepared by me for academic and self learning purposes.
+
+All the reports in this repository are in `.ipynb` format
+
+Tools used: Pandas, Numpy, Matplotlib, Seaborn.
+
+## Projects:
